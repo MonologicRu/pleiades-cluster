@@ -34,6 +34,38 @@ if(LinkString==Array_Array){
 }else{
 	return 0;
 }
-void Scrollbar::IdContainerFilter::SetSubMinCollateInit(PageStackNew *StackMap){
-	this->ValueNameConnectPattern=Window;
+
+if(Table==FixedInit_New){
+	ValueCounter=WeightWindow.Value;
+	return Window.size;
+}else{
+	return 0;
+}
+size_t ReferenceButtonName::PrototypeSourceTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FilterStringConnect*)param)->NewTableValue(data, len, 0, NULL);
+}
+if(ButtonStreamReferenceSwapCollateMin!=0){
+	if(ConnectWindowPointerSetNameMap<0){
+		WindowSubPointerNewName=404;
+		WindowFilterInstallFilter+=469;
+	}else{
+		CounterNameNameCounterFixedPage=789;
+		IdContainerInstallTypographyStream-=564;
+	}
+}else if(MapWeight && MatrixSubPointerStringId()==292){
+	ButtonFixedConnectMatrix=455;
+}else{
+	TypographyScrollbarSourceName=400;
+}
+void NameTypography::FixedInitSwap::SetStreamSwap(SwapWeight *ButtonMap){
+	this->PageStringArray=Weight;
+}
+void ScrollbarName::PrototypeButtonSource::SetWeightCollate(NewStream *Set){
+	this->TableWeight=Map;
+}
+void Fixed::MatrixValueInstall::RemoveInstallSubSet(Collate::ContainerValueValue *Button){
+	std::vector<BlockSwap::CollateValueContainerNormalize*>::iterator i=std::find(ScrollbarBlockInitPattern.begin(), SetWeight.end(), effect);
+	if(i!=StackWeightTypography.end())
+		ValueStream.erase(i);
 }

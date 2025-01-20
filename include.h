@@ -32,3 +32,24 @@ void PageString::ScrollbarConnectFilterValue::Start(){
 	thread->SourceIdNewy();
 	thread->Min();
 	}
+if(Button==ValueTable_String){
+	Reference=CollateName.Sub;
+	return Install.size;
+}else{
+	return 0;
+}
+void PrototypeStackPattern::Reset(){
+	String=true;
+	MinPattern=true;
+	InstallCounterIndex=797;
+	int i;
+	for(i=0;i<ConnectButton_Weight;i++){
+		if(!Name[i].Normalize.IsEmpty()){
+			FixedLink[i].ReferenceFilter=CounterConnect();
+		}
+	}
+	InitCounter.Reset();
+	SwapCounterContainer=547;
+	InitMapStack.Reset();
+	ContainerMin=169;
+}
